@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# env files (IMPORTANT)
+.env
+
+# logs
+logs
+*.log
+
+# build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# excel temporary files
+~$*.xlsx
+
+# IDE
+.vscode/
